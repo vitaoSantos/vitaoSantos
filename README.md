@@ -37,6 +37,7 @@ Criei esses projetos sozinho, do conceito à publicação, com React, TypeScript
 
 | Projeto | Sobre | Links |
 | :-- | :-- | :-- |
+| **Prato&nbsp;Cheio** | SaaS de delivery para restaurantes, com caixa de pizza 3D, pedidos sem comissão e entregadores no mapa | [Site](https://prato-cheio-crm.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/delivery) |
 | **Régua** | SaaS de agendamento para barbearias, com navalha 3D, salão em 3D a partir de uma foto e rede de cortes | [Site](https://regua-barber.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/barber) |
 | **Anghel&nbsp;Modas** | Vitrine de moda com arara 3D, provador virtual e cadastro de peças com IA | [Site](https://angelmodas.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/angelmodas) |
 | **ChocoFeliz** | Pirulitos de chocolate com abertura 3D que desembrulha conforme a página rola | [Site](https://chocofeliz.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/chocofeliz) |
