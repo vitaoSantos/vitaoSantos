@@ -33,16 +33,18 @@ Mais de 6 anos construindo sistemas de alta performance, de APIs e microsserviç
 
 ### 🚀 Projetos em destaque
 
-Criei esses projetos sozinho, do conceito à publicação, com React, TypeScript e Three.js, desenvolvendo com o Claude Code.
+Criei esses projetos sozinho, do conceito ao protótipo, com React e TypeScript (e Three.js nas cenas 3D), desenvolvendo com o Claude Code.
 
 | Projeto | Sobre | Links |
 | :-- | :-- | :-- |
-| **Prato&nbsp;Cheio** | SaaS de delivery para restaurantes, com caixa de pizza 3D, pedidos sem comissão e entregadores no mapa | [Site](https://prato-cheio-crm.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/delivery) |
-| **Régua** | SaaS de agendamento para barbearias, com navalha 3D, salão em 3D a partir de uma foto e rede de cortes | [Site](https://regua-barber.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/barber) |
-| **Anghel&nbsp;Modas** | Vitrine de moda com arara 3D, provador virtual e cadastro de peças com IA | [Site](https://angelmodas.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/angelmodas) |
-| **ChocoFeliz** | Pirulitos de chocolate com abertura 3D que desembrulha conforme a página rola | [Site](https://chocofeliz.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/chocofeliz) |
-| **Anghel&nbsp;Decora** | Decoração de festas com configurador 3D para o cliente montar o cenário | [Site](https://angheldecora.netlify.app/)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/angheldecora) |
-| **Portfólio** | Meu site, com cenas 3D, conceitos de POO em Java e PHP e mural de recados | [Site](https://victorsantosportifolio.netlify.app)&nbsp;·&nbsp;[Código](https://github.com/vitaoSantos/portifolio) |
+| **Casa&nbsp;Cheia** | Sistema para o comércio de bairro: caixa que vende sem internet, estoque com granel e fidelidade com totem | Em&nbsp;breve |
+| **Mão&nbsp;Dupla** | App de mobilidade para o interior: corrida, carona entre cidades e app próprio para táxi e mototáxi | Em&nbsp;breve |
+| **Prato&nbsp;Cheio** | SaaS de delivery para restaurantes, com caixa de pizza 3D, pedidos sem comissão e entregadores no mapa | [Site](https://prato-cheio-crm.netlify.app/) |
+| **Régua** | SaaS de agendamento para barbearias, com navalha 3D, salão em 3D a partir de uma foto e rede de cortes | [Site](https://regua-barber.netlify.app/) |
+| **Anghel&nbsp;Modas** | Vitrine de moda com arara 3D, provador virtual e cadastro de peças com IA | [Site](https://angelmodas.netlify.app/) |
+| **ChocoFeliz** | Pirulitos de chocolate com abertura 3D que desembrulha conforme a página rola | [Site](https://chocofeliz.netlify.app/) |
+| **Anghel&nbsp;Decora** | Decoração de festas com configurador 3D para o cliente montar o cenário | [Site](https://angheldecora.netlify.app/) |
+| **Portfólio** | Meu site, com cenas 3D, conceitos de POO em Java e PHP e mural de recados | [Site](https://victorsantosportifolio.netlify.app) |
 
 ### 🤝 Vamos conversar?
 
