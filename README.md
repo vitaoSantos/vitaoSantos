@@ -2,9 +2,11 @@
 
 **Engenheiro de Software · IA Aplicada · Full Stack**
 
-Mais de 6 anos construindo sistemas de alta performance, de APIs e microsserviços a soluções de IA em produção. Minha história com tecnologia começou atrás do balcão de uma lan house em Valença (RJ), atendendo clientes e consertando computadores. Hoje construo sistemas usados por milhares de pessoas ao mesmo tempo.
+Desde 2019 construindo sistemas de alta performance, de APIs e microsserviços a soluções de IA em produção. Minha história com tecnologia começou atrás do balcão de uma lan house em Valença (RJ), atendendo clientes e consertando computadores. Hoje construo sistemas usados por milhares de pessoas ao mesmo tempo.
 
 🌐 Conheça meu portfólio: **[victorsantosportifolio.netlify.app](https://victorsantosportifolio.netlify.app)**
+
+📄 Currículo em PDF, com os projetos e como cada um iria para produção: **[curriculo-victor-soares.pdf](https://github.com/vitaoSantos/vitaoSantos/blob/main/curriculo-victor-soares.pdf)**
 
 - 🔭 Hoje sou Engenheiro de Software na **Fortram Soluções Digitais**, onde desenvolvo da arquitetura à entrega: PWAs, microsserviços com foco em segurança e escalabilidade, MySQL e soluções de IA com scripts e automações
 - 💡 No back-end, trabalho com microsserviços em **PHP**, arquitetura orientada a eventos com **Swoole** e **RabbitMQ**, e com **Java** e **Spring** em aplicações financeiras e integrações com gateways de pagamento
@@ -37,8 +39,8 @@ Criei esses projetos sozinho, do conceito ao protótipo, com React e TypeScript 
 
 | Projeto | Sobre | Links |
 | :-- | :-- | :-- |
-| **Casa&nbsp;Cheia** | Sistema para o comércio de bairro: caixa que vende sem internet, estoque com granel e fidelidade com totem | Em&nbsp;breve |
-| **Mão&nbsp;Dupla** | App de mobilidade para o interior: corrida, carona entre cidades e app próprio para táxi e mototáxi | Em&nbsp;breve |
+| **Casa&nbsp;Cheia** | Sistema para o comércio de bairro: caixa que vende sem internet, estoque com granel e fidelidade com totem | [Site](https://casa-cheia.netlify.app/) |
+| **Mão&nbsp;Dupla** | App de mobilidade para o interior: corrida, carona entre cidades e app próprio para táxi e mototáxi | [Site](https://mao-dupla.netlify.app/) |
 | **Prato&nbsp;Cheio** | SaaS de delivery para restaurantes, com caixa de pizza 3D, pedidos sem comissão e entregadores no mapa | [Site](https://prato-cheio-crm.netlify.app/) |
 | **Régua** | SaaS de agendamento para barbearias, com navalha 3D, salão em 3D a partir de uma foto e rede de cortes | [Site](https://regua-barber.netlify.app/) |
 | **Anghel&nbsp;Modas** | Vitrine de moda com arara 3D, provador virtual e cadastro de peças com IA | [Site](https://angelmodas.netlify.app/) |
@@ -51,6 +53,7 @@ Criei esses projetos sozinho, do conceito ao protótipo, com React e TypeScript 
 Projetos, oportunidades ou uma boa conversa sobre tecnologia e IA. No Instagram, compartilho conteúdos sobre IA, programação e ensino.
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-8B5CF6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48cGF0aCBkPSJNMy42IDloMTYuOE0zLjYgMTVoMTYuOE0xMS41IDNhMTcgMTcgMCAwIDAgMCAxOE0xMi41IDNhMTcgMTcgMCAwIDEgMCAxOCIvPjwvc3ZnPg%3D%3D)](https://victorsantosportifolio.netlify.app)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-0B7F9E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNCAzdjRhMSAxIDAgMCAwIDEgMWg0Ii8%2BPHBhdGggZD0iTTE3IDIxSDdhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoN2w1IDV2MTFhMiAyIDAgMCAxLTIgMnoiLz48cGF0aCBkPSJNOSAxMmg2TTkgMTZoNiIvPjwvc3ZnPg%3D%3D)](https://github.com/vitaoSantos/vitaoSantos/blob/main/curriculo-victor-soares.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/victor-part-santos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viitao.santos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988934837?text=Ol%C3%A1%2C%20Victor%21%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar.)
